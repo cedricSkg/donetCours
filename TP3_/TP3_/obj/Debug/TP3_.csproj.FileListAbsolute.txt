@@ -1,0 +1,17 @@
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\TP3_.csproj.AssemblyReference.cache
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\MainWindow.g.cs
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\App.g.cs
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\TP3__MarkupCompile.cache
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\TP3__MarkupCompile.lref
+C:\Cours\Donet\TP3_\TP3_\bin\Debug\TP3_.exe.config
+C:\Cours\Donet\TP3_\TP3_\bin\Debug\TP3_.exe
+C:\Cours\Donet\TP3_\TP3_\bin\Debug\TP3_.pdb
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\MainWindow.baml
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\TP3_.g.resources
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\TP3_.Properties.Resources.resources
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\TP3_.csproj.GenerateResource.cache
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\TP3_.csproj.CoreCompileInputs.cache
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\TP3_.exe
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\TP3_.pdb
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\Diaporama.g.cs
+C:\Cours\Donet\TP3_\TP3_\obj\Debug\Diaporama.baml

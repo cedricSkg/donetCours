@@ -1,0 +1,10 @@
+C:\Cours\Donet\TP2\TP2\bin\Debug\TP2.exe.config
+C:\Cours\Donet\TP2\TP2\bin\Debug\TP2.exe
+C:\Cours\Donet\TP2\TP2\bin\Debug\TP2.pdb
+C:\Cours\Donet\TP2\TP2\obj\Debug\TP2.csproj.AssemblyReference.cache
+C:\Cours\Donet\TP2\TP2\obj\Debug\TP2.Form1.resources
+C:\Cours\Donet\TP2\TP2\obj\Debug\TP2.Properties.Resources.resources
+C:\Cours\Donet\TP2\TP2\obj\Debug\TP2.csproj.GenerateResource.cache
+C:\Cours\Donet\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Cours\Donet\TP2\TP2\obj\Debug\TP2.exe
+C:\Cours\Donet\TP2\TP2\obj\Debug\TP2.pdb

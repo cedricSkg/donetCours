@@ -1,0 +1,12 @@
+C:\Cours\Donet\TP1_\TP1_\bin\Debug\TP1_.exe.config
+C:\Cours\Donet\TP1_\TP1_\bin\Debug\TP1_.exe
+C:\Cours\Donet\TP1_\TP1_\bin\Debug\TP1_.pdb
+C:\Cours\Donet\TP1_\TP1_\obj\Debug\TP1_.csproj.AssemblyReference.cache
+C:\Cours\Donet\TP1_\TP1_\obj\Debug\TP1_.Form1.resources
+C:\Cours\Donet\TP1_\TP1_\obj\Debug\TP1_.Properties.Resources.resources
+C:\Cours\Donet\TP1_\TP1_\obj\Debug\TP1_.csproj.GenerateResource.cache
+C:\Cours\Donet\TP1_\TP1_\obj\Debug\TP1_.csproj.CoreCompileInputs.cache
+C:\Cours\Donet\TP1_\TP1_\obj\Debug\TP1_.exe
+C:\Cours\Donet\TP1_\TP1_\obj\Debug\TP1_.pdb
+C:\Cours\Donet\TP1_\TP1_\bin\Debug\stdole.dll
+C:\Cours\Donet\TP1_\TP1_\obj\Debug\TP1_.csproj.CopyComplete
