@@ -30,7 +30,8 @@ public class Service : IService
 		}
 		return composite;
 	}
-
+// Serveur SQL en réseau
+//String sConnexionString = "Server=srv-sql;Database=StationMeteo;User Id=UserMeteo ;Password=MeteoUser;";
     // Chaîne de connexion à la base de données SQL Server
     private string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Cours\\Donet\\TP2_suite\\TP2_suite\\App_Data\\Database.mdf;Integrated Security=True;";
 
